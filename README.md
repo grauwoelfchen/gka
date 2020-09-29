@@ -2,7 +2,7 @@
 
 **G**rauwoelfchen's software-dvorak based layout for **K**eyboardio **A**treus.
 
-Exported by [Chrysalis](https://github.com/keyboardio/Chrysalis/issues).
+Exported by [Chrysalis](https://github.com/keyboardio/Chrysalis) (0.7.9).
 
 ## License
 
